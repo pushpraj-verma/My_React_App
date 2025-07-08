@@ -1,0 +1,18 @@
+[
+    {
+      "id": "CMP1",
+      "name": "Tech Solutions",
+      "industry": "Information Technology"
+    },
+    {
+      "id": "CMP2",
+      "name": "Test Company",
+      "industry": "Software"
+    },
+    {
+      "id": "CMP3",
+      "name": "Data Innovators",
+      "industry": "Big Data"
+    }
+  ]
+  
