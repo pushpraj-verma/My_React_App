@@ -17,5 +17,6 @@ const EditDetail = () => {
     alert('Customer data updated successfully!');
     navigate('/customer');
   };
+}
 
 export default handleSave
