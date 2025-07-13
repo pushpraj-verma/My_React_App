@@ -15,6 +15,8 @@
                  <Edit fontSize="inherit" />
                </IconButton>
 -              <IconButton aria-label="delete" size="large">
-+              <IconButton aria-label="delete" size="large" onClick={() => handleDelete(customer.id)}>
++              <IconButton aria-label="delete" size="large" onClick={() => handleDelete(c  u
+  )
+}stomer.id)}>
                  <DeleteIcon fontSize="inherit" />
                </IconButton>
