@@ -20,4 +20,15 @@ import { useNavigate } from 'react-router-dom';
                         Logout
                     </Button>
                 </ListItem>
+                <ListItem>
+                    <Button 
+                        variant="outlined" 
+                        color="error" 
+                        startIcon={<LogoutIcon />}
+                        onClick={handleLogout}
+                        fullWidth
+                    >
+                        Logout
+                    </Button>
+                </ListItem>
         </List>

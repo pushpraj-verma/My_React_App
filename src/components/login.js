@@ -15,3 +15,9 @@ const handleLogin = async () => {
         alert('Please enter both username and password.');
     }
 };
+
+const handleDemoLogin = () => {
+    setUsername('admin');
+    setLoginSuccess(true);
+    navigate('/dashboard');
+};
